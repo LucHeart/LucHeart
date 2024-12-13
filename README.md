@@ -1,5 +1,5 @@
 ## Hi there 👋
-Welcome to my Profile! Im a german software engineer working at Alpha Blend Interactive (ChilloutVR).
+Welcome to my Profile! Im a german software engineer. My profession is in .NET, specfically backend with ASP.NET.
 
 ### Side Projects
 
