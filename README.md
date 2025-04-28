@@ -1,7 +1,6 @@
 ## Hi there 👋
 Welcome to my Profile! Im a german software engineer. My profession is in .NET, specfically backend with ASP.NET.
-
-Currently looking for work.
+Freelancer as a side hussle.
 
 ### Side Projects
 
