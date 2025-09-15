@@ -6,3 +6,5 @@ Freelancer as a side hussle.
 
 #### OpenShock
 I work on my project [OpenShock](https://github.com/OpenShock) currently.
+
+[![Metrics](/github-metrics.svg)](#)
