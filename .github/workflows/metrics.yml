@@ -14,7 +14,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: oddstr13/github-profile-metrics@odd-choices
         with:
           token: ${{ secrets.METRICS_TOKEN }}
 
